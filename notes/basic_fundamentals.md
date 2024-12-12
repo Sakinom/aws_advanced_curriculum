@@ -1,6 +1,7 @@
 # 1. 基礎
 
-該当インプット： Chapter1
+該当インプット：
+- Chapter1
 
 ## POSSE課題
 
